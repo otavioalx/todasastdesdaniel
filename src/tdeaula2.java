@@ -59,7 +59,7 @@ import java.util.Scanner;
 
 //public class tdeaula2 {
 //    public static void main(String[] args) {
-//        int[] v = {40, 9, 1, 7, 591094012};
+//        int[] v = {40, 9, 1, 7, 2};
 //        System.out.println("Maior: " + maior(v));
 //    }
 //    static int maior(int[] v) {
